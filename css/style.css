@@ -185,7 +185,7 @@ margin-top: -125px;
   padding: 5px;
 }
 
-.filter current {
+.filter .current {
   background-color: #e74c3c;
   border-color: #e74c3c;
   color: #fff
@@ -300,11 +300,11 @@ margin-top: -125px;
 }
 
 .items .item:hover img {
-  -webkit-transform: scale(1.05, 1.05);
-  -moz-transform: scale(1.05, 1.05);
-  -o-transform: scale(1.05, 1.05);
-  -ms-transform: scale(1.05, 1.05);
-  -transform: scale(1.05, 1.05);
+  -webkit-tranform: scale(1.05, 1.05);
+  -moz-tranform: scale(1.05, 1.05);
+  -o-tranform: scale(1.05, 1.05);
+  -ms-tranform: scale(1.05, 1.05);
+  -tranform: scale(1.05, 1.05);
 }
 
 .items {
