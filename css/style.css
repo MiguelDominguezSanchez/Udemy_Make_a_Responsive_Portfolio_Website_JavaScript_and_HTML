@@ -68,7 +68,8 @@ margin-top: -125px;
   max-width: 100%;
 }
 
-.skillSection {
+.skillSection,
+.contactSection {
   background-color: #e74c3c;
   color: #fff;
 }
